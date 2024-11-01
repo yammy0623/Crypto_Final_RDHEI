@@ -1,6 +1,6 @@
 # Reversible Data Hiding in Encrypted Image via Secret Sharing Based on GF(2^8)
 #### Experiment result records in https://hackmd.io/@vekMh5uNRK-ZfmBnFj1BgQ/Sk3qFHEPn
-#### [Research Paper](https://github.com/yammy0623/Crypto_Final_RDHEI/edit/main/report.pdf)
+#### [Research Paper](https://github.com/yammy0623/Crypto_Final_RDHEI/blob/main/report.pdf)
 
 # Environment
 ```
